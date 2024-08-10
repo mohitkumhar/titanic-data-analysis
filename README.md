@@ -1,5 +1,3 @@
-Sure! Here's the updated README file with a line for contributing:
-
 # Titanic Data Analysis
 
 ## Overview
